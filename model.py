@@ -7,7 +7,7 @@ You must supply at least 4 methods:
 - load: reloads the model.
 '''
 import pickle
-import numpy as np   # We recommend to use numpy arrays
+import numpy as np   # We recommend to use numpy arrays  
 from os.path import isfile
 from sklearn.linear_model import LogisticRegression
 
