@@ -7,6 +7,7 @@ Sample repository to test github integration
 
 Python2 environment
 
+
 ## How to use
 
 Edit [blob/master/model.py](model.py) and then
